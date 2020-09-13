@@ -7,4 +7,4 @@ The project limits the number of search results from youtube, so you can watch t
 ## How to use
 
 You are very welcome to use my project as a youtube replacement to save your time and energy.
-Simply open [https://elastic-einstein-51e03b.netlify.app/](https://elastic-einstein-51e03b.netlify.app/)
+Simply go to [https://elastic-einstein-51e03b.netlify.app/](https://elastic-einstein-51e03b.netlify.app/)
