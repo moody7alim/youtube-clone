@@ -1,3 +1,10 @@
+#Youtubee-clone
+
+Youtube-clone is an open-source project made for those who consume youtube more than `six` hours a day, like the developer himself.
+The project limits the number of search results from youtube, so you can watch the only video you want to watch. No auto-watch next, no other suggestions, and no sidebar ads.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
