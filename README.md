@@ -8,3 +8,8 @@ The project limits the number of search results from youtube, so you can watch t
 
 You are very welcome to use my project as a youtube replacement to save your time and energy.  
 Simply go to [https://elastic-einstein-51e03b.netlify.app/](https://elastic-einstein-51e03b.netlify.app/)
+
+## What's next?
++ More styling with css.
++ Increase search limit.
++ Embed Video duration in the describtion.
