@@ -1,6 +1,6 @@
 # Youtube-clone
 
-Youtube-clone is an open-source project made for those who consume youtube more than `six` hours a day, like the developer himself.  
+Youtube-clone is an open-source project made for those who consume youtube more than -six- hours a day, like the developer himself.  
 The project limits the number of search results from youtube, so you can watch the only video you want to watch. No auto-watch next, no other suggestions, and no sidebar ads.
 
 
